@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-show_excerpts: true
+show_excerpts: false
 texture:
   title: Cheng Yuan Chang's Blog (Mark)
   tagline: NCTU CS
@@ -45,7 +45,7 @@ texture:
   style: [black]
   
   showPicker: [false|true]
- 
+  
   showNav: true
   social_links:
     github: CyCTW
