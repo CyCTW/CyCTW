@@ -37,19 +37,20 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-show_excerpts: false
+show_excerpts: true
 texture:
-  title: Cheng Yuan Chang's Blog (Mark)
-  tagline: NCTU CS
+  title: 張承遠's Blog 
+  tagline: "NCTU CS Junior Student. <br> A Voracious Developer."
   date_format: "%b %-d, %Y"
   style: [black]
   
-  showPicker: [false|true]
+  # showPicker: [false|true]
   
   showNav: true
   social_links:
     github: CyCTW
     facebook: NCTU193
+    linkedIn: in/yuan-chang-6263b5191/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
