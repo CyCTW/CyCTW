@@ -44,7 +44,7 @@ texture:
   date_format: "%b %-d, %Y"
   style: [black]
   
-#showPicker: [false|true]
+  showPicker: [false|true]
  
   showNav: true
   social_links:
