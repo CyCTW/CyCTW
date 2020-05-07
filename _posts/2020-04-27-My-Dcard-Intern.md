@@ -76,12 +76,10 @@ zip檔裡包含: [train.py](http://train.py) [predict.py](http://predict.py) req
 
 **F1 Score for two label:**
 <img src="/CyCTW/img/data2.png" />
-<!-- ![Trending%20Article%20Prediction%20Report/Untitled%201.png](/CyCTW/_posts/img/Untitled1.png) -->
 
 **Accuracy:**
-<img src="/CyCTW/img/data3.png" />
+<img src="/CyCTW/img/data3 .png" />
 
-<!-- ![Trending%20Article%20Prediction%20Report/Untitled%202.png](_posts/img/Untitled2.png) -->
 
 ## 實驗觀察:
 
