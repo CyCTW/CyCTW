@@ -1,6 +1,6 @@
-<div class="container">
-	<h1>{{ site.texture.title }}</h1>
-	<h2>{{ site.texture.tagline }}</h2>
+<div class="container_top">
+	<h1><span class="my_title">{{ site.texture.title }}</span></h1>
+	<h2><span class="my_tags">{{ site.texture.tagline }}</span></h2>
 	<ul class="social">
 		{%- if site.texture.social_links.github -%}
 			<a href="https://github.com/{{ site.texture.social_links.github }}"><li><i class="fab fa-github fa-5x"></i></li></a>
@@ -13,3 +13,5 @@
 		{%- endif -%}
 	</ul>
 </div>
+
+

@@ -12,13 +12,10 @@ excerpt_separator: <!--more-->
 <!--more-->
 以下正文：
 
----
-
 # Trending Article Prediction Report
 
-Author: 張承遠
-
 ## 如何跑我的code？
+[Github](https://github.com/CyCTW/Trend-Article-Prediction)
 
 zip檔裡包含: [train.py](http://train.py) [predict.py](http://predict.py) requirement.txt Report.pdf ran100model_3.h5
 
@@ -75,16 +72,16 @@ zip檔裡包含: [train.py](http://train.py) [predict.py](http://predict.py) req
 ## Evaluate 在我們提供的 testing data 的結果:
 
 **Confusion Matrix: ([0, 1])**
-
-![Trending%20Article%20Prediction%20Report/Untitled.png](https://drive.google.com/drive/u/0/folders/1kl0QxOSMlaQom_mkpkM4Y7BvXMp5bfNh)
+<img src="/CyCTW/img/data1.png">
 
 **F1 Score for two label:**
-
-![Trending%20Article%20Prediction%20Report/Untitled%201.png](/CyCTW/_posts/img/Untitled1.png)
+<img src="/CyCTW/img/data2.png" />
+<!-- ![Trending%20Article%20Prediction%20Report/Untitled%201.png](/CyCTW/_posts/img/Untitled1.png) -->
 
 **Accuracy:**
+<img src="/CyCTW/img/data3.png" />
 
-![Trending%20Article%20Prediction%20Report/Untitled%202.png](_posts/img/Untitled2.png)
+<!-- ![Trending%20Article%20Prediction%20Report/Untitled%202.png](_posts/img/Untitled2.png) -->
 
 ## 實驗觀察:
 

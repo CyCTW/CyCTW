@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CyCTW's Blog
+title: Mark's Blog
 email: zxcvbnmichael192@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  CyCTW's Blog NCTUCS
 baseurl: "/CyCTW" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -39,14 +37,14 @@ plugins:
 
 show_excerpts: true
 texture:
-  title: 張承遠's Blog 
-  tagline: "NCTU CS Junior Student. <br> A Voracious Developer."
+  title: Mark's Blog 
+  tagline: "<strong><div>Cheng Yuan Chang</div></strong> <ul> <li>National Chiao Tung University</li> <li>Bachelor of Computer Science </li><li> A Voracious Developer</li> </ul>"
   date_format: "%b %-d, %Y"
   style: [black]
   
   # showPicker: [false|true]
   
-  showNav: true
+  showNav: false
   social_links:
     github: CyCTW
     facebook: NCTU193

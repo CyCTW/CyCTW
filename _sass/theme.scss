@@ -61,7 +61,7 @@ figcaption {
 
 header {
 	// background-size: cover;
-	padding: 120px 0;
+	// padding: 120px 0;
 	color: #fff;
 	overflow: hidden;
 	h2 {
@@ -105,10 +105,12 @@ header {
 //
 // Basic Container Class
 //
-.container {
+.container_top {
+	padding: 120px 0;
+}
+.container, .container_top {
 	margin:0 150px;
 	max-width: 1020px;
-
 	div.highlighter-rouge {
 		right: 150px;
 	}
@@ -185,7 +187,7 @@ header {
 	li {
 		float: left;
 		padding: 10px 20px;
-		background-color: $lightGray;
+		background-color: darkgray;
 		color: #000;
 		margin: 5px;
 		border-radius: 2px;

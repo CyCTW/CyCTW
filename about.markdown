@@ -1,29 +1,33 @@
 ---
-layout: page
-title: abou
+layout: post
+title: ABOUt Me
 permalink: /about/
+date: 2020-04-27
 ---
+# 張 承遠 (Cheng-Yuan Chang)
+## 國立交通大學 資訊工程學系
+- *2017 - Present*
+- Research Student of Professor Yi-Chen Wu's Lab
 
-# Welcome to my Blog! 
+## 經歷
+待補
 
-## About me
+## 軟體學習與技能
+- **Domain Expertise:**
+    - Machine Learning, Reinforcement Learning
+    - Computer Network, Network Programming
+    - Algorithm, Data Structure
+- **Programming Skills:**
+    - Familiar: C++ / Python / MySQL / Git 
+    - Basic: HTML / CSS / Javascript / Java / AWSCloud 
 
-- My name is Cheng Yuan Chang.
 
-- Now a student studying at **National Chiao Tung University, Department of Computer Science.**
+## 興趣
+- BasketBall, VolleyBall
+- Gaming
+- Learn new Knowledge
 
-- Interested in **software engineering**. When it comes to the field I interested in, Uhh... I am still searching.
 
-- Start to **learn programming** since Freshman year, it's still a long way to go!
-
-- *193 cm :)*
-
-- **My Future Goal:**
-    - Search for Internship!
-    - Study master degree in NCTU or NTU.
-    - Find the field I want to work in!
-    - Make more friends with similar interest!!
-    - ~~Find a girlfriend...~~
 
 
 
