@@ -113,10 +113,23 @@
 .my_title {
     font-family: fantasy;
     font-size: 200%;
-    color:rgb(255, 115, 0);
+    display: inline-block;
+    // color:rgb(255, 115, 0);
     // background-color: ;
     font-weight: bold;
+    // animation
+    animation-name: emerge1;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+    position: relative;
 }
+@keyframes emerge1 {
+    // from {transform: scale(0);}
+    // to {transform: scale(1);}
+    from {color:black}
+    to {color:rgb(255, 115, 0)}
+}
+
 .my_tags {
     strong div {
         font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
@@ -124,14 +137,32 @@
         font-size: 120%;
         padding-top: 30px;
         margin-bottom: 3px;
-        color: rgb(0, 174, 255);
+        // color: rgb(0, 174, 255);
+        color: black;
+        animation-name: emerge2;
+        animation-duration:3s;
+        animation-fill-mode:forwards;
+        animation-delay:1s;
     }
     ul {
         list-style-type: circle;
         margin: 3px;
+        color:black;
+        animation-delay:2s;
+        animation-name: emerge3;
+        animation-fill-mode:forwards;
+        animation-duration:1s;
     }
     li {
         padding: 10px 0px 5px 0px;
 
     }
+}
+@keyframes emerge2 {
+    // from {color:black}
+    to {color: rgb(0, 174, 255)}
+}
+@keyframes emerge3 {
+    from {color: black}
+    to {color :gray}
 }
