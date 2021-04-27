@@ -5,14 +5,23 @@ cyctw@vm /home/cyctw/Github~$ whoami
 ```
 # Education
 ## Undergraduate
-🏫 Deparement of **Computer Science, National Chiao Tung University.** *(2017/9 ~ now)*
+🏫 Deparement of **Computer Science, National Chiao Tung University.** *(2017/9 - present)*
 ## Graduate (Future)
-🏫 Got admitted at **Graduate Institute of Electrical Engineering, National Taiwan University.** *(From 2021/9 )*
+🏫 Got admitted at **Graduate Institute of Electrical Engineering CyberSecurity program, National Taiwan University.** *(Expect study from 2021/9 )*
 # Projects
-- [Surakarta AI](https://github.com/qlivez/SurakartaAI) *Lang: C++, PyTorchC++*
+- [Surakarta AI](https://github.com/CyCTW/Surakarta-AI) | *C++, PyTorchC++*
+  - Developed Surakarta board game engine available for two gamers. 
   - Won 3rd place in TAAI2019 Tournament of Surakarta Game.
   - Implemented different RL (Reinforcement Learning), DL (Deep Learning) technique to train AI.
-  - 
+- [Food Explorer](https://github.com/cyctw/FoodExplorer) | *Javascript, React, Netlify, Fauna DB*
+  - Developed a full-stack web application using with Flask serving a REST API with React as the frontend
+  - Parse data from Google Map API.
+  - Visualized customized food map for individual user
+  - Use Netlify Function(AWS Lambda) and Fauna DB to build website’s backend service
+- [Parallel Monte Carlo Tree Search](https://github.com/cyctw/Parallel-MCTS) | *C++, OpenMP, Pthread, Github Action, Git*
+  - Develop and analyze the parallelism method in MCTS algorithm.
+  - Implemented continuous delivery using Github Action and build test coverage using googletest
+  - Collaborate with other two members.
 
 # NCTU Courses
 ## Fall 2020
