@@ -22,6 +22,10 @@ cyctw@vm /home/cyctw/Github~$ whoami
   - Develop and analyze the parallelism method in MCTS algorithm.
   - Implemented continuous delivery using Github Action and build test coverage using googletest
   - Collaborate with other two members.
+- [Personal Website](https://cyctw.github.io) | *Nuxt.js Vuetify D3.js*
+  - Personal website built by Nuxt.js Static Site Generation, which make use of Server Side Rendering.
+  - Make use of Vuetify css library and implement simple RWD.
+  - Implement interactive skill tree svg using D3.js.
 
 # NCTU Courses
 ## Fall 2020
