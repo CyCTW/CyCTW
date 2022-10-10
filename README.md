@@ -4,15 +4,24 @@ cyctw@vm /home/cyctw/Github~$ whoami
 > Cheng Yuan Chang
 ```
 # Education
-## Undergraduate
-🏫 Deparement of **Computer Science, National Chiao Tung University.** *(2017/9 - present)*
-## Graduate (Future)
-🏫 Got admitted at **Graduate Institute of Electrical Engineering CyberSecurity program, National Taiwan University.** *(Expect study from 2021/9 )*
+- Undergraduate: 🏫 Deparement of **Computer Science, National Chiao Tung University.** *(2017/9 - present)*
+- Graduate: 🏫 Graduate Institute of **Electrical Engineering CyberSecurity program, National Taiwan University.**
 # Projects
-- [Surakarta AI](https://github.com/CyCTW/Surakarta-AI) | *C++, PyTorchC++*
-  - Developed Surakarta board game engine available for two gamers. 
-  - Won 3rd place in TAAI2019 Tournament of Surakarta Game.
-  - Implemented different RL (Reinforcement Learning), DL (Deep Learning) technique to train AI.
+- [Web Infra Template](https://github.com/CyCTW/web-infra-template) | k8s, Gitops, GCP: Cloud Build
+  - Build a sample CI/CD pipeline for arbitrary application.
+  - Build a K8s template for fullstack application.
+- [Activity LineBot](https://github.com/CyCTW/Activity-bot) | *Golang, gin, Line API*
+  - LineBot for event scheduling and notification.
+  - Use golang gin framework to develop backend.
+  - Developed with Line MessageAPI and Line Notify for interaction and notification.
+- [Image Labeling to Earn! 💰](https://github.com/CyCTW/ImageLabel-DApp) | ReactJS, Ethereum, Truffle, IPFS
+  - A simple DApp (Decentralized Application) that make people solve trivial tasks and earn little money.
+  - Write smart contract with solidity for backend on ethereum.
+  - Use IPFS, a decentralized storage application to store transaction data.
+- [Web3-offline-shop](https://github.com/CyCTW/Web3-offline-shop) | ReactJS, Ethereum, Hardhat, NodeJS, IPFS
+  - Build a Dapp that user can safely exchange their NFT for real world goods
+  
+
 - [Food Explorer](https://github.com/cyctw/FoodExplorer) | *Javascript, React, Netlify, Fauna DB*
   - Developed a full-stack web application using with Flask serving a REST API with React as the frontend
   - Parse data from Google Map API.
@@ -26,6 +35,10 @@ cyctw@vm /home/cyctw/Github~$ whoami
   - Personal website built by Nuxt.js Static Site Generation, which make use of Server Side Rendering.
   - Make use of Vuetify css library and implement simple RWD.
   - Implement interactive skill tree svg using D3.js.
+- [Surakarta AI](https://github.com/CyCTW/Surakarta-AI) | *C++, PyTorchC++*
+  - Developed Surakarta board game engine available for two gamers. 
+  - Won 3rd place in TAAI2019 Tournament of Surakarta Game.
+  - Implemented different RL (Reinforcement Learning), DL (Deep Learning) technique to train AI.
 
 # NCTU Courses
 ## Fall 2020
