@@ -4,8 +4,8 @@ cyctw@vm /home/cyctw/Github~$ whoami
 > Cheng Yuan Chang
 ```
 # Education
-- Undergraduate: 🏫 Deparement of **Computer Science, National Chiao Tung University.** *(2017/9 - present)*
-- Graduate: 🏫 Graduate Institute of **Electrical Engineering CyberSecurity program, National Taiwan University.**
+- Undergraduate: 🏫 Deparement of **Computer Science, National Chiao Tung University.** *(2017/9 - 2021/6)*
+- Graduate: 🏫 Graduate Institute of **Electrical Engineering CyberSecurity program, National Taiwan University.** *(2021/09 - 2022/10)*
 # Projects
 - [Web Infra Template](https://github.com/CyCTW/web-infra-template) | k8s, Gitops, GCP: Cloud Build
   - Build a sample CI/CD pipeline for arbitrary application.
